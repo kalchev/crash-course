@@ -7,6 +7,6 @@ namespace _12810
 {
     public class Class1
     {
-        
+        //
     }
 }
