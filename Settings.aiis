@@ -202,7 +202,7 @@
     ],
     "ScheduleServerUrl": "http://localhost:8009",
     "IsScheduleServerRemote": false,
-    "ProjectVersion": "2017.1.116.0",
+    "ProjectVersion": "2017.2.517.0",
     "Namespace": "TestProject139",
     "AssemblyName": "TestProject139",
     "OutputFolder": "bin",
