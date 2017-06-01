@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #folders
 bin/
 Results/
@@ -5,3 +6,12 @@ Backup/
 
 #files
 Pages.g.*
+=======
+#folders
+bin/
+Results/
+Backup/
+
+#files
+Pages.g.*
+>>>>>>> master
